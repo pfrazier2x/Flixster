@@ -31,6 +31,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='YOUR_GIF_LINK_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+
+<img width="480" height="718" alt="Pi7_GIF_CMP" src="https://github.com/user-attachments/assets/a157a466-13bd-4148-8ea2-01f5c90ad603" />
+
 GIF created with **Kap**
 
 ## Notes
